@@ -92,6 +92,7 @@ body {
   width: 50%;
 }
 .title h1 {
+  line-height: 0.9;
   font-size: 2.5rem;
   color: #4b244e;
 }
@@ -133,7 +134,7 @@ body {
 }
 
 .ratings p {
-  width: 70%;
+  width: 90%;
   padding: 0.5rem 1rem;
   background-color: #f6f2f7;
   border-radius: 10px;
