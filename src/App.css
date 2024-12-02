@@ -114,6 +114,7 @@ body {
 .ratings {
   padding: 1rem;
   width: 50%;
+  margin-left: 3rem;
 }
 
 .ratings div img {
